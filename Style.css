@@ -1,0 +1,75 @@
+body{
+display: flex; 
+justify-content: center;
+align-items: center;
+margin-top: 550px;
+}
+button{
+    font-size: 20px;
+    padding: 15px 30px;
+    border-radius: 5px;
+
+}
+.Red{
+background-color: red;
+border: 5px;
+border-radius: 5px;
+
+}
+.Yellow{
+    background-color: yellow;
+    border: 5px;
+    border-radius: 5px;
+
+}
+.Green{
+    background-color: green;
+    border: 5px;
+    border-radius: 5px;
+
+
+}
+.Gold{
+    background-color: gold;
+    border: 5px;
+    border-radius: 5px;
+
+
+}
+.Pink{
+    background-color: pink;
+    border: 5px;
+    border-radius: 5px;
+
+}
+.Orange{
+    background-color: orange;
+    border: 5px;
+    border-radius: 5px;
+
+}
+.Teal{
+    background-color: teal;
+    border: 5px;
+    border-radius: 5px;
+
+}
+.Blue{
+    background-color: blue;
+    border: 5px;
+    border-radius: 5px;
+
+
+}
+.Purple{
+    background-color: purple;
+    border: 5px;    border-radius: 5px;
+
+
+}
+.Crimson{
+    background-color: crimson;
+    border: 5px;
+    border-radius: 5px;
+
+}
